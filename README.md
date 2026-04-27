@@ -37,6 +37,10 @@ To access and run the project, the user would open the Unity project, load the m
 
 ### **Challenges and Future Work**
 
+One of the biggest challenges in this project was getting the objects to behave correctly in the room. At times, objects would fall through surfaces in the scene instead of resting naturally on tables or other furniture. Although this was improved during development, it is still not fully fixed and remains one of the main issues that would need more work in a future version of the project.
+
+In future work, one important improvement would be to fully fix the object physics and collision system so that all interactive props behave more reliably in the environment. Another feature that would make the project more personal and immersive would be adding character models of the students, so the room would include virtual versions of the people who built the experience.
+
 ### **AI Usage**
 
 AI was used as a helper during the development process to figure out the steps needed for different tasks. It was especially useful for understanding how to approach certain features, where to find tools or settings in Unity, and what sequence of steps to follow when solving technical issues.
