@@ -44,3 +44,7 @@ In future work, one important improvement would be to fully fix the object physi
 ### **AI Usage**
 
 AI was used as a helper during the development process to figure out the steps needed for different tasks. It was especially useful for understanding how to approach certain features, where to find tools or settings in Unity, and what sequence of steps to follow when solving technical issues.
+
+### **Demo Video**
+
+[![Watch the demo](https://img.youtube.com/vi/b-JdQYYPs_M/maxresdefault.jpg)](https://youtu.be/b-JdQYYPs_M)
