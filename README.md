@@ -47,4 +47,6 @@ AI was used as a helper during the development process to figure out the steps n
 
 ### **Demo Video**
 
-[![Watch the demo](https://img.youtube.com/vi/b-JdQYYPs_M/maxresdefault.jpg)](https://youtu.be/b-JdQYYPs_M)
+[![Watch the demo video](https://img.youtube.com/vi/b-JdQYYPs_M/maxresdefault.jpg)](https://youtu.be/b-JdQYYPs_M)
+
+[Click here to watch the demo on YouTube](https://youtu.be/b-JdQYYPs_M)
