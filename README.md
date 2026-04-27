@@ -11,9 +11,15 @@ Also, the motivation behind this project was to explore how VR can feel more imm
 
 It takes place inside a Langsam Library room environment. The room has walls, flooring, tables, and furniture arranged so the player can navigate naturally through the space. The room was designed to feel interactive rather than empty. Furniture placement was important because it created movement paths for characters and gave users surfaces to place objects.
 
+![Langsam Library Room](room.png)
+
 We use Unity-chan character model as one of the interactive models. She walks to a table, picks up a phone, performs a phone conversation animation, places the phone back down, and then resumes wandering around the room. This character helped demonstrate the pathfinding using NavMesh, animation transitions, object interaction, and autonomous behavior.
 
+![Unity-chan Interaction](girl.png)
+
 We also used one of the wolf characters to have him move around the room. The other wolf reacts when the player approaches him. When the user gets close enough, the wolf plays the audio. This added life to the room and gave the player a reason to explore the environment.
+
+![Wolf Character Interaction](wolf.png)
 
 Several grabbable objects were added to the room. The player can use Meta Quest controllers to pick up and move objects. Physics and collision systems were adjusted so objects such as laptop, mug, phones, room props can rest on tables instead of falling through surfaces.
 
